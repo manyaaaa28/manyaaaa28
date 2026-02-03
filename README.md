@@ -25,6 +25,6 @@ When I'm not debugging smart contracts or training models, I'm likely singing or
 ---
 
 ### 📫 Let's Connect!
-https://www.linkedin.com/in/manya-madaan/ | madaanmanya28@gmail.com
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[manyaaaa28]&show_icons=true&theme=radical)
+### 📫 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/manya-madaan/) | [Email](mailto:madaanmanya28@gmail.com)
+![Manya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manyaaaaa28&show_icons=true&theme=radical)
