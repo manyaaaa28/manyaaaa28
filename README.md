@@ -22,3 +22,16 @@ When I'm not debugging smart contracts or training models, I'm likely singing or
 [LinkedIn](https://www.linkedin.com/in/manya-madaan/) | [Email](mailto:madaanmanya28@gmail.com)
 
 ![Manya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manyaaaaa28&show_icons=true&theme=radical&include_all_commits=true)
+
+
+## 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 📊 GitHub Stats
+![Manya's Stats](https://github-readme-stats.vercel.app/api?username=manyaaaaa28&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manyaaaaa28&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manya-madaan/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madaanmanya28@gmail.com)
