@@ -23,3 +23,10 @@ When I'm not debugging smart contracts or training models, I'm likely singing or
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manya-madaan/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madaanmanya28@gmail.com)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manyaaaa28/manyaaaa28/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manyaaaa28/manyaaaa28/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/manyaaaa28/manyaaaa28/output/dist/github-contribution-grid-snake.svg" />
+</picture>
