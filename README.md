@@ -32,12 +32,13 @@
 $ npm run introduce
 ```
 
-Hi, I'm **Manya Madaan**. I build things that sit somewhere between machine learning and the web,
-and I solve problems for fun when neither of those is cooperating.
+Hi, I'm Manya Madaan. I build things that sit somewhere between machine learning and the web, and I solve problems for fun when neither of those is cooperating.
 
-- Currently building <!-- **[Sage](https://github.com/gargibhardwaj24/Sage)** and **[Spyder](https://github.com/gargibhardwaj24/spyder_frontend)**-->
-- Learning **React + Machine Learning**
-- Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
+* Background in ML, backend, and Web3 — from phishing detection to SMS crypto wallets
+* Currently exploring smart contract security and multi-agent AI systems
+* Best Paper Award @ ICICC 2026 · Bounty Winner @ ETHGlobal HackMoney'26
+* Fun fact: I build things first and figure out why later
+* 
 <br>
 
 ---
