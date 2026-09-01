@@ -22,32 +22,19 @@
 <a href="https://leetcode.com/u/Maanyaa/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
 <img src="https://komarev.com/ghpvc/?username=manyaaaa28&style=flat&color=39d353&label=profile+views" alt="profile views">
-<img src="https://img.shields.io/github/followers/manyaaaa28?label=Followers&style=for-the-badge&color=4a00e0" alt="profile views">
-<img src="https://komarev.com/ghpvc/?username=manyaaaa28&label=Profile%20Views&color=8e2de2&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/manyaaaa28?label=Followers&style=flat&color=39d353" alt="profile views">
 
 </div>
 
+##WhoAmI
+Hi, I'm Manya Madaan. I build things that sit somewhere between machine learning and the web, and I solve problems for fun when neither of those is cooperating.
+
+Currently building Sage and Spyder
+Portfolio: dossier-iota-one.vercel.app
+Learning React + Machine Learning
+Fun fact: I started coding seriously because I wanted to build things I wished existed.
 
 
-
-# Hi there, I'm Manya 👋 👩‍💻
-
-I am a **Computer Science & AI Student at IGDTUW** with a passion for building intelligent systems and decentralized solutions. I bridge the gap between **Artificial Intelligence** and **Blockchain** to create secure, automated, and impactful technology.
-
-🔭 Currently Exploring
-Decentralized Intelligence: Architecting the intersection of LLMs and Web3 to build intent-based blockchain interactions.
-
-On-Chain Security: Applying advanced Machine Learning models to enhance threat detection and security protocols within the EVM ecosystem.
-
-Smart Accounts: Exploring Account Abstraction (ERC-4337) and modular wallet infrastructures to simplify user onboarding.
-
-🛠️ Core Focus
-AI/ML: Predictive Modeling, NLP, and Hybrid Optimization Algorithms.
-
-Web3: Solidity, Smart Contract Security, and Decentralized Identity.
-
-### ⚡ Fun Fact
-When I'm not debugging smart contracts or training models, I'm likely singing or trying to beat my high score in retro arcade games like Pac-Man. 🕹️
 ---
 
 ## 🛠️ Tech Stack
