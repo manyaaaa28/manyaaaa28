@@ -124,8 +124,8 @@ and I solve problems for fun when neither of those is cooperating.
 <!-- <img src="assets/metrics.achievements.svg" width="90%" alt="achievements"> -->
 
 ## Achievements
-<p align="left">
-  <img src="assets/achievements-custom.png" width="500" alt="Achievements" />
+<p align="center">
+  <img src="assets/achievements-custom.png" width="220" alt="Achievements" />
 </p>
 
 
