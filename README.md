@@ -26,7 +26,7 @@
 
 </div>
 
-## `~/` whoami
+## WhoAmI
 
 ```console
 $ npm run introduce
@@ -35,7 +35,7 @@ $ npm run introduce
 Hi, I'm **Manya Madaan**. I build things that sit somewhere between machine learning and the web,
 and I solve problems for fun when neither of those is cooperating.
 
-- Currently building **[Sage](https://github.com/gargibhardwaj24/Sage)** and **[Spyder](https://github.com/gargibhardwaj24/spyder_frontend)**
+- Currently building <!-- **[Sage](https://github.com/gargibhardwaj24/Sage)** and **[Spyder](https://github.com/gargibhardwaj24/spyder_frontend)**-->
 - Learning **React + Machine Learning**
 - Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
 <br>
@@ -49,8 +49,6 @@ and I solve problems for fun when neither of those is cooperating.
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css&perline=11" alt="tech stack">
 
 </div>
-
-
 
 
 ## `~/` skill radar
