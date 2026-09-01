@@ -25,8 +25,14 @@ When I'm not debugging smart contracts or training models, I'm likely singing or
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manya-madaan/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madaanmanya28@gmail.com)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manyaaaa28/manyaaaa28/output/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manyaaaa28/manyaaaa28/output/dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/manyaaaa28/manyaaaa28/output/dist/github-contribution-grid-snake.svg" />
-</picture>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TanayKumar-V2/TanayKumar-V2/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+<sub>✨ To activate this animation, add the <b>snake.yml</b> GitHub Action from <a href="https://github.com/Platane/snk">Platane/snk</a> to a repo named exactly like your username.</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
