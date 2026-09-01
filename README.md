@@ -38,7 +38,7 @@ Hi, I'm Manya Madaan. I build things that sit somewhere between machine learning
 * Currently exploring smart contract security and multi-agent AI systems
 * Best Paper Award @ ICICC 2026 · Bounty Winner @ ETHGlobal HackMoney'26
 * Fun fact: I build things first and figure out why later
-* 
+  
 <br>
 
 ---
