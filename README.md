@@ -121,7 +121,13 @@ and I solve problems for fun when neither of those is cooperating.
 
 <br><br>
 
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
+<!-- <img src="assets/metrics.achievements.svg" width="90%" alt="achievements"> -->
+
+## Achievements
+<p align="left">
+  <img src="assets/achievements-custom.png" width="500" alt="Achievements" />
+</p>
+
 
 </div>
 
