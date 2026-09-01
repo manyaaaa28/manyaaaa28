@@ -31,7 +31,6 @@ When I'm not debugging smart contracts or training models, I'm likely singing or
 
 <img src="https://raw.githubusercontent.com/TanayKumar-V2/TanayKumar-V2/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
-<sub>✨ To activate this animation, add the <b>snake.yml</b> GitHub Action from <a href="https://github.com/Platane/snk">Platane/snk</a> to a repo named exactly like your username.</sub>
 
 </div>
 
