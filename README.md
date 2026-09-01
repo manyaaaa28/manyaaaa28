@@ -44,12 +44,10 @@ and I solve problems for fun when neither of those is cooperating.
 
 <div align="center">
 
-## `~/` toolbox
-
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css&perline=11" alt="tech stack">
-
+## Toolbox
+<div>
+<img src="https://skillicons.dev/icons?i=cpp,python,rust,ts,js,csharp,r,fastapi,flask,nodejs,react,tensorflow,docker,git,github,gcp,vercel,figma,html,css&perline=10" alt="tech stack">
 </div>
-
 
 ## `~/` skill radar
 
