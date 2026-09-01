@@ -26,7 +26,7 @@
 
 </div>
 
-##WhoAmI
+## WhoAmI
 Hi, I'm Manya Madaan. I build things that sit somewhere between machine learning and the web, and I solve problems for fun when neither of those is cooperating.
 
 Currently building Sage and Spyder
